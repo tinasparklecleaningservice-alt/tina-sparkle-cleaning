@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tina Sparkle Cleaning Service - Professional Cleaning</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;color:#333}
+header{background:#0ea5e9;color:white;padding:40px 20px;text-align:center}
+header h1{margin:0;font-size:32px} header p{opacity:0.9}
+.btn{display:inline-block;background:#facc15;color:#000;padding:14px 24px;border-radius:30px;text-decoration:none;font-weight:bold;margin-top:15px}
+section{padding:40px 20px;max-width:900px;margin:auto}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+.card{background:#f0f9ff;padding:20px;border-radius:12px;text-align:center}
+.card h3{margin:10px 0}
+footer{background:#0f172a;color:white;text-align:center;padding:25px}
+@media(max-width:600px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+<h1>✨ Tina Sparkle Cleaning ✨</h1>
+<p>Website for Tina sparkle cleaning service - professional cleaning service</p>
+<a class="btn" href="https://wa.me/1234567890">Book on WhatsApp</a>
+</header>
+
+<section>
+<h2>Our Services</h2>
+<div class="grid">
+<div class="card"><h3>🏠 House Cleaning</h3><p>Regular, sparkling clean homes.</p></div>
+<div class="card"><h3>🏢 Office Cleaning</h3><p>Clean & productive workspaces.</p></div>
+<div class="card"><h3>✨ Deep Cleaning</h3><p>Detailed top-to-bottom cleaning.</p></div>
+<div class="card"><h3>📦 Move In/Out</h3><p>Perfect for tenants & landlords.</p></div>
+</div>
+</section>
+
+<section style="background:#f8fafc">
+<h2>Why Choose Us?</h2>
+<p>✅ Reliable & Professional<br>✅ Affordable Prices<br>✅ Eco-Friendly Products<br>✅ 100% Satisfaction</p>
+<a class="btn" href="https://wa.me/1234567890">Get a Free Quote</a>
+</section>
+
+<footer>
+<p>Tina Sparkle Cleaning Service<br>© 2026 All Rights Reserved</p>
+</footer>
+</body>
+</html>
